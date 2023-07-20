@@ -1,9 +1,10 @@
 ## Hi there👋
+
 ###   I’m currently attending Master Degree couse of Computer Engineering at Politecnico di Torino 
 
-
+<!--
 [![My Skills](https://skillicons.dev/icons?i=c,rust,js,py,pytorch,java,react,postgres,mongodb,arduino,powershell,html,git,github,gitlab,jest,bootstrap,express,nodejs)](https://skillicons.dev)
-
+-->
 ##
 How to reach me: luca.ferraro2b@gmail.com
 
